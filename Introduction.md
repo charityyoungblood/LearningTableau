@@ -11,3 +11,6 @@
         - Measures are "dependent" variables 
   - On the right (majority of the screen) is your "Workspace" 
   
+2. Adding Colors 
+  - Drag and drop column or row to add color to
+  - You can select column dimension > drag to "Columns" > To duplicate
