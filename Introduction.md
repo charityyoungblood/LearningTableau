@@ -11,3 +11,5 @@
         - Measures are "dependent" variables 
   - On the right (majority of the screen) is your "Workspace" 
   
+2. To duplicate columns in Tableau > Select column name > click and hold "Command" > Drag to pane 
+  
