@@ -15,3 +15,5 @@
   ## Step 2: Determine WHAT you are examining?
     - The most common A/B test is for Gender 
     - In the Churn Modeling example, we take Gender in order to answer the question: "If we hold all other variables EQUAL, we take a male customer and female customer, which one of them is MORE LIKELY to exit the bank?" 
+    - We drag and drop "Gender" from "Dimensions" into "Columns" in the Workspace 
+    - Since we want to know HOW MANY people exited the bank (total amount) we place "Number Of Records" from the "Measures" area > Drag and drop to "Rows" 
